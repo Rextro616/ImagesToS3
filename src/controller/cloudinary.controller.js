@@ -1,9 +1,9 @@
 import {v2 as cloudinary} from 'cloudinary'
 
 cloudinary.config({ 
-  cloud_name: 'dbzadapd3', 
-  api_key: '239724896971933', 
-  api_secret: 'JzqQIZJzQOXUt1ldlnnkBY3TWRU' 
+  cloud_name: '', 
+  api_key: '', 
+  api_secret: '
 });
 
 const uploadImage = async (filePath) => {
